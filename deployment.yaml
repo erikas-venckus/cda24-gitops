@@ -22,5 +22,5 @@ spec:
           protocol: TCP
         env:
         - name: ECHO_TEXT
-          value: Labas vakaras - Erikas
+          value: Error 404 - Not Found
 
